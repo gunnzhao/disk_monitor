@@ -7,7 +7,6 @@ class Config
 	// 要检查的磁盘目录
 	public static $path = [
 		'/',
-		''
 	];
     // 允许的最小可用空间(GB)
     public static $allowMinFreeSpace = 3;
